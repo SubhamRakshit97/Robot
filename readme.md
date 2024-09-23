@@ -10,7 +10,8 @@ This program simulates the movement of a robot on a 5x4 grid. The robot takes di
 2. Save the `robot_movement.py` file to your local machine.
 3. Run the program using the terminal/command line:
    
-## Run the command: ``` bash python robot_movement.py```
+## Run the command: 
+```python robot_movement.py ```
 
 4. Input a sequence of commands when prompted (e.g., `MSMMEMM`).
 5. The final position of the robot will be printed to the terminal.
